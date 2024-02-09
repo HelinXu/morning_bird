@@ -44,5 +44,3 @@ Congratulations! now you can open your terminal and type `getup` to document you
 ![image](./pic/terminal-sl.png)
 ![image](./pic/terminal-morning.png)
 ![image](./pic/github-page-preview.png)
-
-
